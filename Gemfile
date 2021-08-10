@@ -1,3 +1,5 @@
+gem 'font-awesome-sass', '~> 5.15.1'
+
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
